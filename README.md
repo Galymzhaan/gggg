@@ -1,2 +1,2 @@
 # gggg
-gggg repo
+gggg repo for git commands demonstration
